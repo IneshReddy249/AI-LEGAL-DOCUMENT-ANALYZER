@@ -1,0 +1,33 @@
+# Core FastAPI and server
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+
+# Database
+psycopg2-binary
+SQLAlchemy
+pgvector
+
+# Document processing
+PyMuPDF
+python-docx
+python-pptx
+openpyxl
+
+# Together AI (replacing OpenAI)
+together
+
+# Additional legal document processing
+pdfplumber
+pytesseract
+Pillow
+
+# Enhanced text processing
+spacy
+nltk
+transformers
+
+# Web interface
+gradio
