@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env & secrets
+.env
+*.env
+.env.*
+
+# Data / models / artifacts
+data/
+models/
+*.gguf
+*.pt
+*.bin
+*.onnx
+*.engine
+*.pth
+*.pickle
+*.pkl
+
+# Logs & cache
+logs/
+*.log
+.cache/

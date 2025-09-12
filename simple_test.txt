@@ -1,0 +1,1 @@
+This is a simple legal contract between Party A and Party B for testing the AI Legal Document Analyzer system.

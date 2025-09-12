@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+gradio
+requests
+psycopg2-binary
+pgvector
+python-dotenv
+together
+numpy
+sentence-transformers
+scikit-learn
+python-docx
+PyMuPDF
+pdfplumber
+Pillow
+pytesseract
